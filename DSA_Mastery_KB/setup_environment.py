@@ -5,13 +5,13 @@ BASE_DIR = r"c:\Projects\personal\Learning\fastapi\Fast-api-docs\DSA_Mastery_KB"
 
 STRUCTURE = {
     "🗺️_ROADMAP.md": "",
-    "🧱_00_The_Foundation": {
+    "_00_The_Foundation": {
         "intuition": ["ram_and_pointers.md", "big_o_growth_charts.md", "recursion_trace_tree.md"],
         "visual": ["memory_visualizer.py"],
         "templates": ["sliding_window_blueprint.py", "two_pointer_blueprint.py", "bfs_dfs_blueprint.py"],
         "json": ["memory_map_snapshot.json"]
     },
-    "📦_01_Linear_Data_Structures": {
+    "_01_Linear_Data_Structures": {
         "01_Arrays_&_Strings": {
             "intuition": [],
             "visual": ["sliding_window_anim.py", "two_ptr_ASCII.md"],
@@ -31,7 +31,7 @@ STRUCTURE = {
             "json": ["stack_trace.json", "circular_queue.json"]
         }
     },
-    "🌳_02_Hierarchical_Structures": {
+    "_02_Hierarchical_Structures": {
         "01_Trees_&_BST": {
             "intuition": [],
             "visual": ["tree_printer.py", "traversal_paths.md"],
@@ -51,7 +51,7 @@ STRUCTURE = {
             "json": ["trie_dictionary.json"]
         }
     },
-    "🕸️_03_Graph_Universes": {
+    "_03_Graph_Universes": {
         "01_Graphs_Core": {
             "intuition": [],
             "visual": ["bfs_shockwave.py", "dfs_maze_runner.py"],
@@ -65,7 +65,7 @@ STRUCTURE = {
             "json": ["dsu_parents.json"]
         }
     },
-    "⚡_04_Algorithmic_Engines": {
+    "_04_Algorithmic_Engines": {
         "01_Sorting_Searching": {
             "visual": ["merge_sort_split.py", "quick_sort_pivot.py"],
             "implementation": ["merge_sort.py", "quick_sort.py", "binary_search.py"],
@@ -84,7 +84,7 @@ STRUCTURE = {
             "json": ["decision_tree.json"]
         }
     },
-    "🧠_05_System_Design_DSA": {
+    "_05_System_Design_DSA": {
         "01_Caching_Strategies": {
             "": ["lru_cache.py"],
             "json": ["lru_state.json"]
